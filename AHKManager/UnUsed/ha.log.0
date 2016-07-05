@@ -1,0 +1,36 @@
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: IBM HeapAnalyzer version 4.5.5 started.
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:11 CST 2016] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:11 CST 2016] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: Name:dom4j parser plug-in
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: Version:1.1
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+五月 28, 2016 5:23:11 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: Registered SelectionPlugin method:onSelectionChange
+五月 28, 2016 5:23:45 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:45 CST 2016] Heap Analysis of E:\EasyOSLink\PCMasterMove\Downloads\Compressed\heapdump.20160527.111051.17694766.0002.phd(File Size:17,825,883 bytes) started
+五月 28, 2016 5:23:46 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:46 CST 2016] Requesting 10,123,248 bytes of Java heap.
+五月 28, 2016 5:23:46 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:46 CST 2016] Requesting 5,061,624 bytes of Java heap.
+五月 28, 2016 5:23:46 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:46 CST 2016] Requesting 5,061,624 bytes of Java heap.
+五月 28, 2016 5:23:46 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:46 CST 2016] Requesting 5,061,624 bytes of Java heap.
+五月 28, 2016 5:23:48 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:48 CST 2016] Requesting 5,061,624 bytes of Java heap.
+五月 28, 2016 5:23:48 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:48 CST 2016] Requesting 5,061,624 bytes of Java heap.
+五月 28, 2016 5:23:49 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:49 CST 2016] Requesting 28,668 bytes of Java heap.
+五月 28, 2016 5:23:49 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:49 CST 2016] Heap Analysis of heapdump.20160527.111051.17694766.0002.phd completed in 00:00:04
+五月 28, 2016 5:23:51 上午 com.ibm.jinwoo.heap.ConsolePrintStream println
+信息: [Sat May 28 05:23:51 CST 2016] IBM Heap Analyzer index file: E:\EasyOSLink\PCMasterMove\Downloads\Compressed\heapdump.20160527.111051.17694766.0002.phd.hax completed in 00:00:00

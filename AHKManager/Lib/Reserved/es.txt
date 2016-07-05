@@ -1,0 +1,6 @@
+es.exe 地址：
+http://www.voidtools.com/es.zip
+
+md5sums:
+es.zip  ef8f3fab2c59fbc8caa3f38520322fac
+es.exe  04fb59444fb718d85200eff071930fc2

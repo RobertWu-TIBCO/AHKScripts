@@ -1,0 +1,973 @@
+﻿file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Camera.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Desktop.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Fiddler4.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\FileManager.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Intel(R) HD Graphics Control Panel.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PhotosApp.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Search.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SlickRun.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Media Player.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Store.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\视频设备.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility\Speech Recognition.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Calculator.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\note8.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Snipping Tool.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sound Recorder.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Sticky Notes.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Fax and Scan.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\XPS Viewer.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\Windows Journal.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\dfrgui.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Disk Cleanup.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (64-bit).lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Security Configuration Management.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Information.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Firewall with Advanced Security.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell (x86).lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell ISE (x86).lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell ISE.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\系统配置.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anritsu TraceView 4.0\Anritsu TraceView 4.0.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anritsu TraceView 4.0\Uninstall Anritsu TraceView 4.0.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AutoHotkey\AutoHotkey Help File.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AutoHotkey\AutoHotkey.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AutoHotkey\AutoIt3 Window Spy.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AutoHotkey\Website.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Cisco\Cisco AnyConnect Secure Mobility Client\Cisco AnyConnect Secure Mobility Client.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Clover\Clover.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Clover\Uninstall Clover.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Cygwin\Cygwin64 Terminal.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Disabled Startup\s.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Disabled Startup\srun.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Ditto\Ditto Help.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Ditto\Ditto.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Ditto\Uninstall.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EasyUEFI\EasyUEFI.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Executor\Executor.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\IDM设置备份工具.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Internet Download Manager\Internet Download Manager.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iTools 3\iTools.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iTunes\iTunes.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iTunes\关于 iTunes.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\关于 Java.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\检查更新.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\配置 Java.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JProfiler 8\JProfiler Help.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JProfiler 8\JProfiler Printable Manual.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JProfiler 8\JProfiler.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Listary\List.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Listary\Uninstall Listary.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Notepad++\Notepad++.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\O&O Software\O&O Defrag\O&O Defrag Help.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\License (English).lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\Oracle VM VirtualBox.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\User manual (CHM, English).lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\User manual (PDF, English).lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Scrybe\Scrybe 在线教程.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Scrybe\Scrybe 网站.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Scrybe\Scrybe.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Skype\桌面Skype.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\slimKEYS\slimKEYS.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\slimKEYS\Uninstall slimKEYS.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartBear\SoapUI 5.2.0\SoapUI 5.2.0 Uninstaller.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartBear\SoapUI 5.2.0\SoapUI-5.2.0.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Default Programs.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Task Manager.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Windows Easy Transfer.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Windows PowerShell.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\Online Documents.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\Uninstall.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO ActiveMatrix BusinessWorks 5.9\Plugin - ActiveAspects\Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO ActiveMatrix BusinessWorks 5.9\Plugin - ActiveAspects\Readme.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO ActiveMatrix BusinessWorks Plug-in for REST and JSON 2.0\Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO Business Studio 3.6\Studio for Designers.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO BusinessConnect 6.2\Gateway Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO BusinessConnect 6.2\Interior Server Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO BusinessConnect 6.2\Readme.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO BusinessConnect 6.2\Plug-in for FTP Server\Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO Hawk 5.2\Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO Hawk 5.2\Start Hawk Agent.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO Hawk 5.2\Start Hawk Display.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO Hawk 5.2\Start Hawk Event.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO Hawk 5.2\Start Hawk Machine Agent.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\TIBCO Hawk 5.2\Start SPOT Example.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\Uninstall.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO ActiveMatrix BusinessWorks 5.13\Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Administrator 5.9\Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Administrator 5.9\TIBCO Administrator.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Designer 5.10\Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Designer 5.10\Readme.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Designer 5.10\TIBCO Designer.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Runtime Agent 5.10\Domain Utility.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Runtime Agent 5.10\MUI Language Chooser.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Runtime Agent 5.10\Readme.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\TIBCO\tibco513Home\TIBCO Runtime Agent 5.10\Runtime Agent Documentation.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\USB宝盒\USB宝盒.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\gVim Diff.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\gVim Easy.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\gVim Read-only.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\gVim.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\Help.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\Uninstall.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\Vim Diff.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\Vim Read-only.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\Vim tutor.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\Vim.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VistaSwitcher\VistaSwitcher.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VMware\VMware Workstation 12 Player.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VMware\VMware Workstation Pro.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VMware\虚拟网络编辑器.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WGestures\WGestures.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\xca\Uninstall.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\xca\xca.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\YourKit Java Profiler 9.0.3\YourKit Java Profiler.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\yulong\coolpaddriver\Uninstall COOLPADDRIVER.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\一键还原系统\启动一键还原系统.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\刷机大师\刷机大师.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\搜狗拼音传统版\设置.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\甜椒刷机助手\甜椒刷机助手.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\腾讯游戏\QQ游戏\QQ游戏.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\IT之家.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\读我.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒优化大师.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒压缩.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒文件大师.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒时间.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒桌面.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒清理大师.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒电脑医生.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒美化大师.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒虚拟光驱.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒设置大师.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒软件管家.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\软媒软件\软媒魔方\软媒魔方.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\在线升级.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\日志查看器.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\清理电脑残留垃圾.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\病毒隔离系统.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\金山毒霸.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\访问金山公司网站\金山公司主页.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\访问金山公司网站\金山毒霸官方微博.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\访问金山公司网站\金山毒霸官方社区.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\金山毒霸\访问金山公司网站\金山毒霸网站.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\驱动人生\软件管家.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\驱动人生\驱动人生6.lnk
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EasyUEFI\EasyUEFI on the Web.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\获取帮助.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\访问 Java.com.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\JProfiler 8\JProfiler on the Web.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\slimKEYS\slimCODE Web Site.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\slimKEYS\slimKEYS Support Forums.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartBear\SoapUI 5.2.0\Online JavaDoc.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SmartBear\SoapUI 5.2.0\soapui.org website.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\Vim Online.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VistaSwitcher\VistaSwitcher 主页.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VistaSwitcher\VistaSwitcher 帮助文件.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\刷机大师\刷机大师官网.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\刷机大师\刷机论坛.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\刷机大师\精品ROM.url
+file | C:\ProgramData\Microsoft\Windows\Start Menu\Programs\甜椒刷机助手\甜椒刷机助手官网.url
+file | E:\EasyOSLink\Run\AdminWork\,fire.lnk
+file | E:\EasyOSLink\Run\AdminWork\3d.lnk
+file | E:\EasyOSLink\Run\AdminWork\513classdebug.lnk
+file | E:\EasyOSLink\Run\AdminWork\630.lnk
+file | E:\EasyOSLink\Run\AdminWork\AHK.lnk
+file | E:\EasyOSLink\Run\AdminWork\ahk2.lnk
+file | E:\EasyOSLink\Run\AdminWork\ahk3.lnk
+file | E:\EasyOSLink\Run\AdminWork\al.lnk
+file | E:\EasyOSLink\Run\AdminWork\alias.lnk
+file | E:\EasyOSLink\Run\AdminWork\AllDesktop.lnk
+file | E:\EasyOSLink\Run\AdminWork\ALLFire_Eclipse.lnk
+file | E:\EasyOSLink\Run\AdminWork\AllMayDay.lnk
+file | E:\EasyOSLink\Run\AdminWork\AltTab.lnk
+file | E:\EasyOSLink\Run\AdminWork\bw.lnk
+file | E:\EasyOSLink\Run\AdminWork\bw6.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwbin.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwdir.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwhome.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwtra13.lnk
+file | E:\EasyOSLink\Run\AdminWork\caps.lnk
+file | E:\EasyOSLink\Run\AdminWork\clientroot.lnk
+file | E:\EasyOSLink\Run\AdminWork\clientroot_disable.lnk
+file | E:\EasyOSLink\Run\AdminWork\clipc.lnk
+file | E:\EasyOSLink\Run\AdminWork\Clover.lnk
+file | E:\EasyOSLink\Run\AdminWork\Cmder.lnk
+file | E:\EasyOSLink\Run\AdminWork\Copy.lnk
+file | E:\EasyOSLink\Run\AdminWork\css.lnk
+file | E:\EasyOSLink\Run\AdminWork\cyg.lnk
+file | E:\EasyOSLink\Run\AdminWork\cygwin.lnk
+file | E:\EasyOSLink\Run\AdminWork\DebugFile.lnk
+file | E:\EasyOSLink\Run\AdminWork\debugprocess.lnk
+file | E:\EasyOSLink\Run\AdminWork\debugprocesslog.lnk
+file | E:\EasyOSLink\Run\AdminWork\desbin.lnk
+file | E:\EasyOSLink\Run\AdminWork\desdir.lnk
+file | E:\EasyOSLink\Run\AdminWork\deshome13.lnk
+file | E:\EasyOSLink\Run\AdminWork\desipassword.lnk
+file | E:\EasyOSLink\Run\AdminWork\Desk2.lnk
+file | E:\EasyOSLink\Run\AdminWork\desk3.lnk
+file | E:\EasyOSLink\Run\AdminWork\deslog.lnk
+file | E:\EasyOSLink\Run\AdminWork\dev.lnk
+file | E:\EasyOSLink\Run\AdminWork\disk.lnk
+file | E:\EasyOSLink\Run\AdminWork\DiskGen.lnk
+file | E:\EasyOSLink\Run\AdminWork\DiskGenius.lnk
+file | E:\EasyOSLink\Run\AdminWork\disks.lnk
+file | E:\EasyOSLink\Run\AdminWork\dl.lnk
+file | E:\EasyOSLink\Run\AdminWork\down.lnk
+file | E:\EasyOSLink\Run\AdminWork\Easy.lnk
+file | E:\EasyOSLink\Run\AdminWork\email.lnk
+file | E:\EasyOSLink\Run\AdminWork\emsconfig.lnk
+file | E:\EasyOSLink\Run\AdminWork\emssample.lnk
+file | E:\EasyOSLink\Run\AdminWork\emssslCertFolder.lnk
+file | E:\EasyOSLink\Run\AdminWork\emsSSLconf.lnk
+file | E:\EasyOSLink\Run\AdminWork\emsSSLconfig.lnk
+file | E:\EasyOSLink\Run\AdminWork\emssslroot.lnk
+file | E:\EasyOSLink\Run\AdminWork\example13.lnk
+file | E:\EasyOSLink\Run\AdminWork\FastCopy.lnk
+file | E:\EasyOSLink\Run\AdminWork\fire10.lnk
+file | E:\EasyOSLink\Run\AdminWork\fire10p.lnk
+file | E:\EasyOSLink\Run\AdminWork\firedir.lnk
+file | E:\EasyOSLink\Run\AdminWork\fireth.lnk
+file | E:\EasyOSLink\Run\AdminWork\Flux.lnk
+file | E:\EasyOSLink\Run\AdminWork\Folder.lnk
+file | E:\EasyOSLink\Run\AdminWork\french.lnk
+file | E:\EasyOSLink\Run\AdminWork\gencert.lnk
+file | E:\EasyOSLink\Run\AdminWork\gest.lnk
+file | E:\EasyOSLink\Run\AdminWork\gest8.lnk
+file | E:\EasyOSLink\Run\AdminWork\gmail.lnk
+file | E:\EasyOSLink\Run\AdminWork\gmail2.lnk
+file | E:\EasyOSLink\Run\AdminWork\gmailold.lnk
+file | E:\EasyOSLink\Run\AdminWork\goodbwtra.lnk
+file | E:\EasyOSLink\Run\AdminWork\greatssl.lnk
+file | E:\EasyOSLink\Run\AdminWork\greppad.lnk
+file | E:\EasyOSLink\Run\AdminWork\habit.lnk
+file | E:\EasyOSLink\Run\AdminWork\hh.lnk
+file | E:\EasyOSLink\Run\AdminWork\hk4.lnk
+file | E:\EasyOSLink\Run\AdminWork\idea.lnk
+file | E:\EasyOSLink\Run\AdminWork\IDM.lnk
+file | E:\EasyOSLink\Run\AdminWork\IDMan8.lnk
+file | E:\EasyOSLink\Run\AdminWork\IDMdown.lnk
+file | E:\EasyOSLink\Run\AdminWork\Input.lnk
+file | E:\EasyOSLink\Run\AdminWork\jconsole.lnk
+file | E:\EasyOSLink\Run\AdminWork\jdbc13.lnk
+file | E:\EasyOSLink\Run\AdminWork\jmapclassdebug.lnk
+file | E:\EasyOSLink\Run\AdminWork\jvm.lnk
+file | E:\EasyOSLink\Run\AdminWork\lanch.lnk
+file | E:\EasyOSLink\Run\AdminWork\List.lnk
+file | E:\EasyOSLink\Run\AdminWork\log4j.lnk
+file | E:\EasyOSLink\Run\AdminWork\log4j13.lnk
+file | E:\EasyOSLink\Run\AdminWork\mide.lnk
+file | E:\EasyOSLink\Run\AdminWork\midecn.lnk
+file | E:\EasyOSLink\Run\AdminWork\missheartbeat.lnk
+file | E:\EasyOSLink\Run\AdminWork\moba.lnk
+file | E:\EasyOSLink\Run\AdminWork\mouse.lnk
+file | E:\EasyOSLink\Run\AdminWork\music.lnk
+file | E:\EasyOSLink\Run\AdminWork\musicall.lnk
+file | E:\EasyOSLink\Run\AdminWork\nav.lnk
+file | E:\EasyOSLink\Run\AdminWork\note2.lnk
+file | E:\EasyOSLink\Run\AdminWork\num.lnk
+file | E:\EasyOSLink\Run\AdminWork\Online.lnk
+file | E:\EasyOSLink\Run\AdminWork\op.lnk
+file | E:\EasyOSLink\Run\AdminWork\openfile.lnk
+file | E:\EasyOSLink\Run\AdminWork\opensslser10.lnk
+file | E:\EasyOSLink\Run\AdminWork\OS.lnk
+file | E:\EasyOSLink\Run\AdminWork\padcolor.lnk
+file | E:\EasyOSLink\Run\AdminWork\padf.lnk
+file | E:\EasyOSLink\Run\AdminWork\perferct.lnk
+file | E:\EasyOSLink\Run\AdminWork\ProducerRobert.lnk
+file | E:\EasyOSLink\Run\AdminWork\profile.lnk
+file | E:\EasyOSLink\Run\AdminWork\profile2.lnk
+file | E:\EasyOSLink\Run\AdminWork\profilep.lnk
+file | E:\EasyOSLink\Run\AdminWork\project.lnk
+file | E:\EasyOSLink\Run\AdminWork\QQ10.lnk
+file | E:\EasyOSLink\Run\AdminWork\QQDown.lnk
+file | E:\EasyOSLink\Run\AdminWork\QQGame.lnk
+file | E:\EasyOSLink\Run\AdminWork\qt.lnk
+file | E:\EasyOSLink\Run\AdminWork\ram.lnk
+file | E:\EasyOSLink\Run\AdminWork\Regshot.lnk
+file | E:\EasyOSLink\Run\AdminWork\ren.lnk
+file | E:\EasyOSLink\Run\AdminWork\Run.lnk
+file | E:\EasyOSLink\Run\AdminWork\screenshoot.lnk
+file | E:\EasyOSLink\Run\AdminWork\Seer.lnk
+file | E:\EasyOSLink\Run\AdminWork\sharenote.lnk
+file | E:\EasyOSLink\Run\AdminWork\SoapUI.lnk
+file | E:\EasyOSLink\Run\AdminWork\SR.lnk
+file | E:\EasyOSLink\Run\AdminWork\SRAll.lnk
+file | E:\EasyOSLink\Run\AdminWork\sslcompare.lnk
+file | E:\EasyOSLink\Run\AdminWork\ssldoc.lnk
+file | E:\EasyOSLink\Run\AdminWork\sslerror.lnk
+file | E:\EasyOSLink\Run\AdminWork\SSLJavacode.lnk
+file | E:\EasyOSLink\Run\AdminWork\swi.lnk
+file | E:\EasyOSLink\Run\AdminWork\switch.lnk
+file | E:\EasyOSLink\Run\AdminWork\Sysman.lnk
+file | E:\EasyOSLink\Run\AdminWork\tc.lnk
+file | E:\EasyOSLink\Run\AdminWork\tc2.lnk
+file | E:\EasyOSLink\Run\AdminWork\TeamSSLDoc.lnk
+file | E:\EasyOSLink\Run\AdminWork\testsslv2.lnk
+file | E:\EasyOSLink\Run\AdminWork\tibco13.lnk
+file | E:\EasyOSLink\Run\AdminWork\tibcossl.lnk
+file | E:\EasyOSLink\Run\AdminWork\TIBCOSSLDoc.lnk
+file | E:\EasyOSLink\Run\AdminWork\tra13.lnk
+file | E:\EasyOSLink\Run\AdminWork\traceconf.lnk
+file | E:\EasyOSLink\Run\AdminWork\ue.lnk
+file | E:\EasyOSLink\Run\AdminWork\UpdateVacation.lnk
+file | E:\EasyOSLink\Run\AdminWork\vacation.lnk
+file | E:\EasyOSLink\Run\AdminWork\videoset.lnk
+file | E:\EasyOSLink\Run\AdminWork\vimfiles.lnk
+file | E:\EasyOSLink\Run\AdminWork\vimplugin.lnk
+file | E:\EasyOSLink\Run\AdminWork\vpn.lnk
+file | E:\EasyOSLink\Run\AdminWork\vpn8.lnk
+file | E:\EasyOSLink\Run\AdminWork\vr.lnk
+file | E:\EasyOSLink\Run\AdminWork\wandoujia.lnk
+file | E:\EasyOSLink\Run\AdminWork\wandoujia2.lnk
+file | E:\EasyOSLink\Run\AdminWork\webex.lnk
+file | E:\EasyOSLink\Run\AdminWork\win10program.lnk
+file | E:\EasyOSLink\Run\AdminWork\Win10Share.lnk
+file | E:\EasyOSLink\Run\AdminWork\Win10Soft.lnk
+file | E:\EasyOSLink\Run\AdminWork\Window Switcher.lnk
+file | E:\EasyOSLink\Run\AdminWork\Wox.lnk
+file | E:\EasyOSLink\Run\AdminWork\Woxfolder.lnk
+file | E:\EasyOSLink\Run\AdminWork\woxPlugin.lnk
+file | E:\EasyOSLink\Run\AdminWork\WSSROBERT.lnk
+file | E:\EasyOSLink\Run\AdminWork\xboot.lnk
+file | E:\EasyOSLink\Run\AdminWork\xca.lnk
+file | E:\EasyOSLink\Run\AdminWork\xvimp.lnk
+file | E:\EasyOSLink\Run\CompanyBiz\emsadmin.lnk
+file | E:\EasyOSLink\Run\CompanyBiz\emsconfig.lnk
+file | E:\EasyOSLink\Run\CompanyBiz\emssslCipher.lnk
+file | E:\EasyOSLink\Run\CompanyBiz\StoredSearch.lnk
+file | E:\EasyOSLink\Run\deskbackup\ClipCache Pro.lnk
+file | E:\EasyOSLink\Run\deskbackup\Clover.lnk
+file | E:\EasyOSLink\Run\deskbackup\fireth.lnk
+file | E:\EasyOSLink\Run\deskbackup\IT之家.lnk
+file | E:\EasyOSLink\Run\deskbackup\Micrоs○ft ExpIоrer.lnk
+file | E:\EasyOSLink\Run\deskbackup\QQ浏览器.lnk
+file | E:\EasyOSLink\Run\deskbackup\webex.lnk
+file | E:\EasyOSLink\Run\deskbackup\回收站.lnk
+file | E:\EasyOSLink\Run\deskbackup\此电脑.lnk
+file | E:\EasyOSLink\Run\Folder\BW.lnk
+file | E:\EasyOSLink\Run\Folder\fireWin10.lnk
+file | E:\EasyOSLink\Run\Folder\fireWin8.lnk
+file | E:\EasyOSLink\Run\Folder\FProgram.lnk
+file | E:\EasyOSLink\Run\Folder\Language.lnk
+file | E:\EasyOSLink\Run\Folder\Linux.lnk
+file | E:\EasyOSLink\Run\Folder\Move.lnk
+file | E:\EasyOSLink\Run\Folder\PE.lnk
+file | E:\EasyOSLink\Run\Folder\rosetta.lnk
+file | E:\EasyOSLink\Run\Folder\tmp.lnk
+file | E:\EasyOSLink\Run\Folder\Win10Tmp.lnk
+file | E:\EasyOSLink\Run\Folder\WorkDoc.lnk
+file | E:\EasyOSLink\Run\LAN\157.lnk
+file | E:\EasyOSLink\Run\LAN\254.lnk
+file | E:\EasyOSLink\Run\LAN\254SOFT.lnk
+file | E:\EasyOSLink\Run\LAN\ROBACT.lnk
+file | E:\EasyOSLink\Run\LAN\robert.lnk
+file | E:\EasyOSLink\Run\LAN\robert1.lnk
+file | E:\EasyOSLink\Run\LAN\robertACT.lnk
+file | E:\EasyOSLink\Run\LAN\SERACT.lnk
+file | E:\EasyOSLink\Run\LAN\serverACT.lnk
+file | E:\EasyOSLink\Run\LAN\serverpc.lnk
+file | E:\EasyOSLink\Run\LAN\serverpc1.lnk
+file | E:\EasyOSLink\Run\LAN\share.lnk
+file | E:\EasyOSLink\Run\Online\excel.lnk
+file | E:\EasyOSLink\Run\Online\fire.lnk
+file | E:\EasyOSLink\Run\Online\fire2.lnk
+file | E:\EasyOSLink\Run\Online\fireFullName.lnk
+file | E:\EasyOSLink\Run\Online\firep.lnk
+file | E:\EasyOSLink\Run\Online\firevpn.lnk
+file | E:\EasyOSLink\Run\Online\ppt.lnk
+file | E:\EasyOSLink\Run\Online\qiyi.lnk
+file | E:\EasyOSLink\Run\Online\video.lnk
+file | E:\EasyOSLink\Run\Online\vmware2.lnk
+file | E:\EasyOSLink\Run\Online\win10.lnk
+file | E:\EasyOSLink\Run\Online\word.lnk
+file | E:\EasyOSLink\Run\Online\wps.lnk
+file | E:\EasyOSLink\Run\OS\bash.lnk
+file | E:\EasyOSLink\Run\OS\bash2.lnk
+file | E:\EasyOSLink\Run\OS\bash3.lnk
+file | E:\EasyOSLink\Run\OS\decompile.lnk
+file | E:\EasyOSLink\Run\OS\es.lnk
+file | E:\EasyOSLink\Run\OS\eve.lnk
+file | E:\EasyOSLink\Run\OS\french.lnk
+file | E:\EasyOSLink\Run\OS\jarscantpcl.lnk
+file | E:\EasyOSLink\Run\OS\jarscantra.lnk
+file | E:\EasyOSLink\Run\OS\jd.lnk
+file | E:\EasyOSLink\Run\OS\jd2.lnk
+file | E:\EasyOSLink\Run\OS\music.lnk
+file | E:\EasyOSLink\Run\OS\opensslcp.lnk
+file | E:\EasyOSLink\Run\OS\QQFile.lnk
+file | E:\EasyOSLink\Run\OS\RecentLink.lnk
+file | E:\EasyOSLink\Run\OS\Sky.lnk
+file | E:\EasyOSLink\Run\OS\soft.lnk
+file | E:\EasyOSLink\Run\OS\srs.lnk
+file | E:\EasyOSLink\Run\OS\sysman.lnk
+file | E:\EasyOSLink\Run\OS\syssoft.lnk
+file | E:\EasyOSLink\Run\OS\vnc.lnk
+file | E:\EasyOSLink\Run\SR\aesenc.lnk
+file | E:\EasyOSLink\Run\SR\ahhelp.lnk
+file | E:\EasyOSLink\Run\SR\allpad.lnk
+file | E:\EasyOSLink\Run\SR\allpad2.lnk
+file | E:\EasyOSLink\Run\SR\anyalg.lnk
+file | E:\EasyOSLink\Run\SR\application.lnk
+file | E:\EasyOSLink\Run\SR\bigmail.lnk
+file | E:\EasyOSLink\Run\SR\bigpad.lnk
+file | E:\EasyOSLink\Run\SR\bw.lnk
+file | E:\EasyOSLink\Run\SR\bwengine.lnk
+file | E:\EasyOSLink\Run\SR\bwexample.lnk
+file | E:\EasyOSLink\Run\SR\BWTRA.lnk
+file | E:\EasyOSLink\Run\SR\class.lnk
+file | E:\EasyOSLink\Run\SR\classdebug.lnk
+file | E:\EasyOSLink\Run\SR\clo.lnk
+file | E:\EasyOSLink\Run\SR\compare2.lnk
+file | E:\EasyOSLink\Run\SR\des..lnk
+file | E:\EasyOSLink\Run\SR\des13.lnk
+file | E:\EasyOSLink\Run\SR\desdir.lnk
+file | E:\EasyOSLink\Run\SR\deshome.lnk
+file | E:\EasyOSLink\Run\SR\desi..lnk
+file | E:\EasyOSLink\Run\SR\desi.lnk
+file | E:\EasyOSLink\Run\SR\desilog.lnk
+file | E:\EasyOSLink\Run\SR\desk.lnk
+file | E:\EasyOSLink\Run\SR\dess3.lnk
+file | E:\EasyOSLink\Run\SR\doc.lnk
+file | E:\EasyOSLink\Run\SR\docker.lnk
+file | E:\EasyOSLink\Run\SR\e.lnk
+file | E:\EasyOSLink\Run\SR\ems.lnk
+file | E:\EasyOSLink\Run\SR\emscerts.lnk
+file | E:\EasyOSLink\Run\SR\emsconf.lnk
+file | E:\EasyOSLink\Run\SR\emsssl.lnk
+file | E:\EasyOSLink\Run\SR\emssslFIPS.lnk
+file | E:\EasyOSLink\Run\SR\encmet.lnk
+file | E:\EasyOSLink\Run\SR\encmethod.lnk
+file | E:\EasyOSLink\Run\SR\eves.lnk
+file | E:\EasyOSLink\Run\SR\filelocate.lnk
+file | E:\EasyOSLink\Run\SR\filesearchx.lnk
+file | E:\EasyOSLink\Run\SR\fox.lnk
+file | E:\EasyOSLink\Run\SR\gems.lnk
+file | E:\EasyOSLink\Run\SR\gmailf.lnk
+file | E:\EasyOSLink\Run\SR\grepmail.lnk
+file | E:\EasyOSLink\Run\SR\help.lnk
+file | E:\EasyOSLink\Run\SR\hosts.lnk
+file | E:\EasyOSLink\Run\SR\httpwss.lnk
+file | E:\EasyOSLink\Run\SR\httpwssdebugclass.lnk
+file | E:\EasyOSLink\Run\SR\input.lnk
+file | E:\EasyOSLink\Run\SR\j2se.lnk
+file | E:\EasyOSLink\Run\SR\javasecurity.lnk
+file | E:\EasyOSLink\Run\SR\javasecurity13.lnk
+file | E:\EasyOSLink\Run\SR\jdbc.lnk
+file | E:\EasyOSLink\Run\SR\log4jp.lnk
+file | E:\EasyOSLink\Run\SR\maildebug.lnk
+file | E:\EasyOSLink\Run\SR\mao.lnk
+file | E:\EasyOSLink\Run\SR\mdesk.lnk
+file | E:\EasyOSLink\Run\SR\ms.lnk
+file | E:\EasyOSLink\Run\SR\note.lnk
+file | E:\EasyOSLink\Run\SR\notepad.lnk
+file | E:\EasyOSLink\Run\SR\Nov.lnk
+file | E:\EasyOSLink\Run\SR\okey.lnk
+file | E:\EasyOSLink\Run\SR\opensslser.lnk
+file | E:\EasyOSLink\Run\SR\opensslsp.lnk
+file | E:\EasyOSLink\Run\SR\pads.lnk
+file | E:\EasyOSLink\Run\SR\pc.lnk
+file | E:\EasyOSLink\Run\SR\pdf.lnk
+file | E:\EasyOSLink\Run\SR\PM.lnk
+file | E:\EasyOSLink\Run\SR\prop.lnk
+file | E:\EasyOSLink\Run\SR\props.lnk
+file | E:\EasyOSLink\Run\SR\putty.lnk
+file | E:\EasyOSLink\Run\SR\putty2.lnk
+file | E:\EasyOSLink\Run\SR\rel.lnk
+file | E:\EasyOSLink\Run\SR\rsaenc.lnk
+file | E:\EasyOSLink\Run\SR\s.lnk
+file | E:\EasyOSLink\Run\SR\scp.lnk
+file | E:\EasyOSLink\Run\SR\Send.lnk
+file | E:\EasyOSLink\Run\SR\SendToWin10.lnk
+file | E:\EasyOSLink\Run\SR\Skype.lnk
+file | E:\EasyOSLink\Run\SR\spy.lnk
+file | E:\EasyOSLink\Run\SR\srun.lnk
+file | E:\EasyOSLink\Run\SR\sslcheck.lnk
+file | E:\EasyOSLink\Run\SR\sslcli.lnk
+file | E:\EasyOSLink\Run\SR\sslclientjavacode.lnk
+file | E:\EasyOSLink\Run\SR\ssldir.lnk
+file | E:\EasyOSLink\Run\SR\sslerror.lnk
+file | E:\EasyOSLink\Run\SR\sslser.lnk
+file | E:\EasyOSLink\Run\SR\sslserver.lnk
+file | E:\EasyOSLink\Run\SR\ssltopic.lnk
+file | E:\EasyOSLink\Run\SR\Start EMS Administration Tool.lnk
+file | E:\EasyOSLink\Run\SR\sub.lnk
+file | E:\EasyOSLink\Run\SR\tcpTrace.lnk
+file | E:\EasyOSLink\Run\SR\tcptrace2.lnk
+file | E:\EasyOSLink\Run\SR\tibco.lnk
+file | E:\EasyOSLink\Run\SR\tomcatDebug.lnk
+file | E:\EasyOSLink\Run\SR\tomcatDebug2.lnk
+file | E:\EasyOSLink\Run\SR\tomcatssl.lnk
+file | E:\EasyOSLink\Run\SR\tomcatsslconf.lnk
+file | E:\EasyOSLink\Run\SR\tra.lnk
+file | E:\EasyOSLink\Run\SR\vbox.lnk
+file | E:\EasyOSLink\Run\SR\vim.lnk
+file | E:\EasyOSLink\Run\SR\vimp.lnk
+file | E:\EasyOSLink\Run\SR\vp.lnk
+file | E:\EasyOSLink\Run\SR\ws.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\AdminWork.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\AHkQQ.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\AllMayDayCollect.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\AutoHotkeyA32.exe.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\designer.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\designer13.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\Executor.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\FirstSoft.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\jd.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\pad.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\pdf.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\Robert_sendto254.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\SendTo.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\SendToWin10.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\SR.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\Win10.lnk
+file | E:\EasyOSLink\Run\SR\SendTo\XUserSendTo.lnk
+file | E:\EasyOSLink\Run\SysSoft\bootice.lnk
+file | E:\EasyOSLink\Run\SysSoft\clean.lnk
+file | E:\EasyOSLink\Run\SysSoft\driver.lnk
+file | E:\EasyOSLink\Run\SysSoft\Foxmail.lnk
+file | E:\EasyOSLink\Run\SysSoft\intel.lnk
+file | E:\EasyOSLink\Run\SysSoft\iso.lnk
+file | E:\EasyOSLink\Run\SysSoft\iTools 3.lnk
+file | E:\EasyOSLink\Run\SysSoft\JProfiler.lnk
+file | E:\EasyOSLink\Run\SysSoft\navi.lnk
+file | E:\EasyOSLink\Run\SysSoft\pad.lnk
+file | E:\EasyOSLink\Run\SysSoft\pcmaster.lnk
+file | E:\EasyOSLink\Run\SysSoft\PCMasterPath.lnk
+file | E:\EasyOSLink\Run\SysSoft\QQGame.lnk
+file | E:\EasyOSLink\Run\SysSoft\shuajijingling.lnk
+file | E:\EasyOSLink\Run\SysSoft\softmaster.lnk
+file | E:\EasyOSLink\Run\SysSoft\SogouInput.lnk
+file | E:\EasyOSLink\Run\SysSoft\UEFI.lnk
+file | E:\EasyOSLink\Run\SysSoft\Umaster.lnk
+file | E:\EasyOSLink\Run\SysSoft\visual.lnk
+file | E:\EasyOSLink\Run\SysSoft\vm.lnk
+file | E:\EasyOSLink\Run\SysSoft\vmware.lnk
+file | E:\EasyOSLink\Run\SysSoft\winmaster.lnk
+file | E:\EasyOSLink\Run\SysSoft\yun.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\Anritsu TraceView 4.0.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\AnyDesk.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\qqmobile.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\root.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\root2.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\ROOT大师.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\shuajidashi.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\shuame.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\SoapUI.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\Thunderbird.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\tianjiaoshuaji.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\vbox.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\wanmeishuaji.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\刷机大师.lnk
+file | E:\EasyOSLink\Run\SysSoft\1225\刷机精灵.lnk
+file | E:\EasyOSLink\Run\Win10\win10program.lnk
+file | E:\EasyOSLink\Run\SysSoft\BOOTICEx64.exe
+file | E:\EasyOSLink\Run\AdminWork\163mailtracesend.bat
+file | E:\EasyOSLink\Run\AdminWork\189mailtracepick.bat
+file | E:\EasyOSLink\Run\AdminWork\189mailtracesend.bat
+file | E:\EasyOSLink\Run\AdminWork\adb2.bat
+file | E:\EasyOSLink\Run\AdminWork\as.bat
+file | E:\EasyOSLink\Run\AdminWork\attri.bat
+file | E:\EasyOSLink\Run\AdminWork\bak.bat
+file | E:\EasyOSLink\Run\AdminWork\bakhost.bat
+file | E:\EasyOSLink\Run\AdminWork\compare.bat
+file | E:\EasyOSLink\Run\AdminWork\emstool.bat
+file | E:\EasyOSLink\Run\AdminWork\fd.bat
+file | E:\EasyOSLink\Run\AdminWork\forcedel.bat
+file | E:\EasyOSLink\Run\AdminWork\g.bat
+file | E:\EasyOSLink\Run\AdminWork\gencert768.bat
+file | E:\EasyOSLink\Run\AdminWork\grant.bat
+file | E:\EasyOSLink\Run\AdminWork\grant2.bat
+file | E:\EasyOSLink\Run\AdminWork\h.bat
+file | E:\EasyOSLink\Run\AdminWork\hibernate.bat
+file | E:\EasyOSLink\Run\AdminWork\importcert.bat
+file | E:\EasyOSLink\Run\AdminWork\l3cert.bat
+file | E:\EasyOSLink\Run\AdminWork\listcert.bat
+file | E:\EasyOSLink\Run\AdminWork\lls.bat
+file | E:\EasyOSLink\Run\AdminWork\ln.bat
+file | E:\EasyOSLink\Run\AdminWork\lnk.bat
+file | E:\EasyOSLink\Run\AdminWork\lnnoquote.bat
+file | E:\EasyOSLink\Run\AdminWork\lnnoquote2.bat
+file | E:\EasyOSLink\Run\AdminWork\lnnoquotesimple.bat
+file | E:\EasyOSLink\Run\AdminWork\lnproblem.bat
+file | E:\EasyOSLink\Run\AdminWork\lnquote.bat
+file | E:\EasyOSLink\Run\AdminWork\mod.bat
+file | E:\EasyOSLink\Run\AdminWork\MQSSLJAVACODE.BAT
+file | E:\EasyOSLink\Run\AdminWork\newhost.bat
+file | E:\EasyOSLink\Run\AdminWork\oldhost.bat
+file | E:\EasyOSLink\Run\AdminWork\own.bat
+file | E:\EasyOSLink\Run\AdminWork\pacmailtrace.bat
+file | E:\EasyOSLink\Run\AdminWork\pacmailtracesend.bat
+file | E:\EasyOSLink\Run\AdminWork\padf.bat
+file | E:\EasyOSLink\Run\AdminWork\rebase.bat
+file | E:\EasyOSLink\Run\AdminWork\sea.bat
+file | E:\EasyOSLink\Run\AdminWork\shutdown.bat
+file | E:\EasyOSLink\Run\AdminWork\tcpserver.bat
+file | E:\EasyOSLink\Run\AdminWork\threaddump.bat
+file | E:\EasyOSLink\Run\AdminWork\vi.bat
+file | E:\EasyOSLink\Run\AdminWork\vnc2.bat
+file | E:\EasyOSLink\Run\AdminWork\vnc223.bat
+file | E:\EasyOSLink\Run\AdminWork\vncip.bat
+file | E:\EasyOSLink\Run\AdminWork\vncipuser.bat
+file | E:\EasyOSLink\Run\AdminWork\ws2.bat
+file | E:\EasyOSLink\Run\AdminWork\wsip.bat
+file | E:\EasyOSLink\Run\AdminWork\wss.bat
+file | E:\EasyOSLink\Run\OS\254search.bat
+file | E:\EasyOSLink\Run\OS\debugssl.bat
+file | E:\EasyOSLink\Run\OS\gp.bat
+file | E:\EasyOSLink\Run\OS\ip.bat
+file | E:\EasyOSLink\Run\OS\ipbakif.bat
+file | E:\EasyOSLink\Run\OS\ipcmd.bat
+file | E:\EasyOSLink\Run\OS\jarclassdir.bat
+file | E:\EasyOSLink\Run\OS\jardirclass.bat
+file | E:\EasyOSLink\Run\OS\jarscanclassdir.bat
+file | E:\EasyOSLink\Run\OS\jarscandirclass.bat
+file | E:\EasyOSLink\Run\OS\jarscantpclclass.bat
+file | E:\EasyOSLink\Run\OS\jarscantraclass.bat
+file | E:\EasyOSLink\Run\OS\jartraclass.bat
+file | E:\EasyOSLink\Run\OS\opensslclient.bat
+file | E:\EasyOSLink\Run\OS\projectprophttp.bat
+file | E:\EasyOSLink\Run\OS\ser.bat
+file | E:\EasyOSLink\Run\OS\snap.bat
+file | E:\EasyOSLink\Run\OS\sys.bat
+file | E:\EasyOSLink\Run\OS\testGoto.bat
+file | E:\EasyOSLink\Run\OS\vbsdate.bat
+file | E:\EasyOSLink\Run\SR\admins.bat
+file | E:\EasyOSLink\Run\SR\BWCMD.BAT
+file | E:\EasyOSLink\Run\SR\cmdwork.bat
+file | E:\EasyOSLink\Run\SR\debugout.bat
+file | E:\EasyOSLink\Run\SR\debugproject.bat
+file | E:\EasyOSLink\Run\SR\ems4servers.bat
+file | E:\EasyOSLink\Run\SR\ems4servers_UFOFactory.bat
+file | E:\EasyOSLink\Run\SR\EMSCMD.BAT
+file | E:\EasyOSLink\Run\SR\emsft1.bat
+file | E:\EasyOSLink\Run\SR\emsft2.bat
+file | E:\EasyOSLink\Run\SR\findlisten.bat
+file | E:\EasyOSLink\Run\SR\findtask.bat
+file | E:\EasyOSLink\Run\SR\hawk.bat
+file | E:\EasyOSLink\Run\SR\kill.bat
+file | E:\EasyOSLink\Run\SR\ms.bat
+file | E:\EasyOSLink\Run\SR\msm.bat
+file | E:\EasyOSLink\Run\SR\netfind.bat
+file | E:\EasyOSLink\Run\SR\OpenFile.bat
+file | E:\EasyOSLink\Run\SR\opensslc1.bat
+file | E:\EasyOSLink\Run\SR\opensslc10.bat
+file | E:\EasyOSLink\Run\SR\opensslc2.bat
+file | E:\EasyOSLink\Run\SR\openssls1.bat
+file | E:\EasyOSLink\Run\SR\openssls2.bat
+file | E:\EasyOSLink\Run\SR\regadmin.bat
+file | E:\EasyOSLink\Run\SR\rvd.bat
+file | E:\EasyOSLink\Run\SR\rvlisten.bat
+file | E:\EasyOSLink\Run\SR\snap.bat
+file | E:\EasyOSLink\Run\SR\ssltool.bat
+file | E:\EasyOSLink\Run\SR\taskfind.bat
+file | E:\EasyOSLink\Run\SR\tomcatDebug.bat
+file | E:\EasyOSLink\Run\SR\w.bat
+file | E:\EasyOSLink\Run\SR\wh.bat
+file | E:\EasyOSLink\Run\SR\wh1.bat
+file | E:\EasyOSLink\Run\SSL\sslclient.bat
+file | E:\EasyOSLink\Run\SSL\sslclientdisssl3.bat
+file | E:\EasyOSLink\Run\SSL\sslclientdistls1.bat
+file | E:\EasyOSLink\Run\serverpc1.rdp
+file | E:\EasyOSLink\Run\LAN\157.RDP
+file | E:\EasyOSLink\Run\LAN\70254vpn.rdp
+file | E:\EasyOSLink\Run\LAN\72254.RDP
+file | E:\EasyOSLink\Run\LAN\MQ.rdp
+file | E:\EasyOSLink\Run\LAN\MQvpn.rdp
+file | E:\EasyOSLink\Run\LAN\robert.RDP
+file | E:\EasyOSLink\Run\LAN\robert1.rdp
+file | E:\EasyOSLink\Run\LAN\server.RDP
+file | E:\EasyOSLink\Run\LAN\serverpc1.rdp
+file | E:\EasyOSLink\Run\AdminWork\batchoice.xml
+file | E:\EasyOSLink\Run\AdminWork\batchoicebak.xml
+file | E:\EasyOSLink\Run\AdminWork\jmsack.xml
+file | E:\EasyOSLink\Run\deskbackup\set_server.xml
+file | E:\EasyOSLink\Run\SysSoft\OSLink.xml
+file | E:\EasyOSLink\Run\AdminWork\adminconf.url
+file | E:\EasyOSLink\Run\AdminWork\idm10.url
+file | E:\EasyOSLink\Run\AdminWork\testahk.url
+file | E:\EasyOSLink\Run\AdminWork\win10extension.url
+file | E:\EasyOSLink\Run\SysSoft\1225\rom.url
+file | E:\EasyOSLink\Run\SysSoft\1225\rom2.url
+file | E:\EasyOSLink\Run\SysSoft\1225\精品ROM.url
+file | E:\EasyOSLink\Run\AdminWork\,fire.lnk
+file | E:\EasyOSLink\Run\AdminWork\3d.lnk
+file | E:\EasyOSLink\Run\AdminWork\513classdebug.lnk
+file | E:\EasyOSLink\Run\AdminWork\630.lnk
+file | E:\EasyOSLink\Run\AdminWork\AHK.lnk
+file | E:\EasyOSLink\Run\AdminWork\ahk2.lnk
+file | E:\EasyOSLink\Run\AdminWork\ahk3.lnk
+file | E:\EasyOSLink\Run\AdminWork\al.lnk
+file | E:\EasyOSLink\Run\AdminWork\alias.lnk
+file | E:\EasyOSLink\Run\AdminWork\AllDesktop.lnk
+file | E:\EasyOSLink\Run\AdminWork\ALLFire_Eclipse.lnk
+file | E:\EasyOSLink\Run\AdminWork\AllMayDay.lnk
+file | E:\EasyOSLink\Run\AdminWork\AltTab.lnk
+file | E:\EasyOSLink\Run\AdminWork\bw.lnk
+file | E:\EasyOSLink\Run\AdminWork\bw6.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwbin.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwdir.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwhome.lnk
+file | E:\EasyOSLink\Run\AdminWork\bwtra13.lnk
+file | E:\EasyOSLink\Run\AdminWork\caps.lnk
+file | E:\EasyOSLink\Run\AdminWork\clientroot.lnk
+file | E:\EasyOSLink\Run\AdminWork\clientroot_disable.lnk
+file | E:\EasyOSLink\Run\AdminWork\clipc.lnk
+file | E:\EasyOSLink\Run\AdminWork\Clover.lnk
+file | E:\EasyOSLink\Run\AdminWork\Cmder.lnk
+file | E:\EasyOSLink\Run\AdminWork\Copy.lnk
+file | E:\EasyOSLink\Run\AdminWork\css.lnk
+file | E:\EasyOSLink\Run\AdminWork\cyg.lnk
+file | E:\EasyOSLink\Run\AdminWork\cygwin.lnk
+file | E:\EasyOSLink\Run\AdminWork\DebugFile.lnk
+file | E:\EasyOSLink\Run\AdminWork\debugprocess.lnk
+file | E:\EasyOSLink\Run\AdminWork\debugprocesslog.lnk
+file | E:\EasyOSLink\Run\AdminWork\desbin.lnk
+file | E:\EasyOSLink\Run\AdminWork\desdir.lnk
+file | E:\EasyOSLink\Run\AdminWork\deshome13.lnk
+file | E:\EasyOSLink\Run\AdminWork\desipassword.lnk
+file | E:\EasyOSLink\Run\AdminWork\Desk2.lnk
+file | E:\EasyOSLink\Run\AdminWork\desk3.lnk
+file | E:\EasyOSLink\Run\AdminWork\deslog.lnk
+file | E:\EasyOSLink\Run\AdminWork\dev.lnk
+file | E:\EasyOSLink\Run\AdminWork\disk.lnk
+file | E:\EasyOSLink\Run\AdminWork\DiskGen.lnk
+file | E:\EasyOSLink\Run\AdminWork\DiskGenius.lnk
+file | E:\EasyOSLink\Run\AdminWork\disks.lnk
+file | E:\EasyOSLink\Run\AdminWork\dl.lnk
+file | E:\EasyOSLink\Run\AdminWork\down.lnk
+file | E:\EasyOSLink\Run\AdminWork\Easy.lnk
+file | E:\EasyOSLink\Run\AdminWork\email.lnk
+file | E:\EasyOSLink\Run\AdminWork\emsconfig.lnk
+file | E:\EasyOSLink\Run\AdminWork\emssample.lnk
+file | E:\EasyOSLink\Run\AdminWork\emssslCertFolder.lnk
+file | E:\EasyOSLink\Run\AdminWork\emsSSLconf.lnk
+file | E:\EasyOSLink\Run\AdminWork\emsSSLconfig.lnk
+file | E:\EasyOSLink\Run\AdminWork\emssslroot.lnk
+file | E:\EasyOSLink\Run\AdminWork\example13.lnk
+file | E:\EasyOSLink\Run\AdminWork\FastCopy.lnk
+file | E:\EasyOSLink\Run\AdminWork\fire10.lnk
+file | E:\EasyOSLink\Run\AdminWork\fire10p.lnk
+file | E:\EasyOSLink\Run\AdminWork\firedir.lnk
+file | E:\EasyOSLink\Run\AdminWork\fireth.lnk
+file | E:\EasyOSLink\Run\AdminWork\Flux.lnk
+file | E:\EasyOSLink\Run\AdminWork\Folder.lnk
+file | E:\EasyOSLink\Run\AdminWork\french.lnk
+file | E:\EasyOSLink\Run\AdminWork\gencert.lnk
+file | E:\EasyOSLink\Run\AdminWork\gest.lnk
+file | E:\EasyOSLink\Run\AdminWork\gest8.lnk
+file | E:\EasyOSLink\Run\AdminWork\gmail.lnk
+file | E:\EasyOSLink\Run\AdminWork\gmail2.lnk
+file | E:\EasyOSLink\Run\AdminWork\gmailold.lnk
+file | E:\EasyOSLink\Run\AdminWork\goodbwtra.lnk
+file | E:\EasyOSLink\Run\AdminWork\greatssl.lnk
+file | E:\EasyOSLink\Run\AdminWork\greppad.lnk
+file | E:\EasyOSLink\Run\AdminWork\habit.lnk
+file | E:\EasyOSLink\Run\AdminWork\hh.lnk
+file | E:\EasyOSLink\Run\AdminWork\hk4.lnk
+file | E:\EasyOSLink\Run\AdminWork\idea.lnk
+file | E:\EasyOSLink\Run\AdminWork\IDM.lnk
+file | E:\EasyOSLink\Run\AdminWork\IDMan8.lnk
+file | E:\EasyOSLink\Run\AdminWork\IDMdown.lnk
+file | E:\EasyOSLink\Run\AdminWork\Input.lnk
+file | E:\EasyOSLink\Run\AdminWork\jconsole.lnk
+file | E:\EasyOSLink\Run\AdminWork\jdbc13.lnk
+file | E:\EasyOSLink\Run\AdminWork\jmapclassdebug.lnk
+file | E:\EasyOSLink\Run\AdminWork\jvm.lnk
+file | E:\EasyOSLink\Run\AdminWork\lanch.lnk
+file | E:\EasyOSLink\Run\AdminWork\List.lnk
+file | E:\EasyOSLink\Run\AdminWork\log4j.lnk
+file | E:\EasyOSLink\Run\AdminWork\log4j13.lnk
+file | E:\EasyOSLink\Run\AdminWork\mide.lnk
+file | E:\EasyOSLink\Run\AdminWork\midecn.lnk
+file | E:\EasyOSLink\Run\AdminWork\missheartbeat.lnk
+file | E:\EasyOSLink\Run\AdminWork\moba.lnk
+file | E:\EasyOSLink\Run\AdminWork\mouse.lnk
+file | E:\EasyOSLink\Run\AdminWork\music.lnk
+file | E:\EasyOSLink\Run\AdminWork\musicall.lnk
+file | E:\EasyOSLink\Run\AdminWork\nav.lnk
+file | E:\EasyOSLink\Run\AdminWork\note2.lnk
+file | E:\EasyOSLink\Run\AdminWork\num.lnk
+file | E:\EasyOSLink\Run\AdminWork\Online.lnk
+file | E:\EasyOSLink\Run\AdminWork\op.lnk
+file | E:\EasyOSLink\Run\AdminWork\openfile.lnk
+file | E:\EasyOSLink\Run\AdminWork\opensslser10.lnk
+file | E:\EasyOSLink\Run\AdminWork\OS.lnk
+file | E:\EasyOSLink\Run\AdminWork\padcolor.lnk
+file | E:\EasyOSLink\Run\AdminWork\padf.lnk
+file | E:\EasyOSLink\Run\AdminWork\perferct.lnk
+file | E:\EasyOSLink\Run\AdminWork\ProducerRobert.lnk
+file | E:\EasyOSLink\Run\AdminWork\profile.lnk
+file | E:\EasyOSLink\Run\AdminWork\profile2.lnk
+file | E:\EasyOSLink\Run\AdminWork\profilep.lnk
+file | E:\EasyOSLink\Run\AdminWork\project.lnk
+file | E:\EasyOSLink\Run\AdminWork\QQ10.lnk
+file | E:\EasyOSLink\Run\AdminWork\QQDown.lnk
+file | E:\EasyOSLink\Run\AdminWork\QQGame.lnk
+file | E:\EasyOSLink\Run\AdminWork\qt.lnk
+file | E:\EasyOSLink\Run\AdminWork\ram.lnk
+file | E:\EasyOSLink\Run\AdminWork\Regshot.lnk
+file | E:\EasyOSLink\Run\AdminWork\ren.lnk
+file | E:\EasyOSLink\Run\AdminWork\Run.lnk
+file | E:\EasyOSLink\Run\AdminWork\screenshoot.lnk
+file | E:\EasyOSLink\Run\AdminWork\Seer.lnk
+file | E:\EasyOSLink\Run\AdminWork\sharenote.lnk
+file | E:\EasyOSLink\Run\AdminWork\SoapUI.lnk
+file | E:\EasyOSLink\Run\AdminWork\SR.lnk
+file | E:\EasyOSLink\Run\AdminWork\SRAll.lnk
+file | E:\EasyOSLink\Run\AdminWork\sslcompare.lnk
+file | E:\EasyOSLink\Run\AdminWork\ssldoc.lnk
+file | E:\EasyOSLink\Run\AdminWork\sslerror.lnk
+file | E:\EasyOSLink\Run\AdminWork\SSLJavacode.lnk
+file | E:\EasyOSLink\Run\AdminWork\swi.lnk
+file | E:\EasyOSLink\Run\AdminWork\switch.lnk
+file | E:\EasyOSLink\Run\AdminWork\Sysman.lnk
+file | E:\EasyOSLink\Run\AdminWork\tc.lnk
+file | E:\EasyOSLink\Run\AdminWork\tc2.lnk
+file | E:\EasyOSLink\Run\AdminWork\TeamSSLDoc.lnk
+file | E:\EasyOSLink\Run\AdminWork\testsslv2.lnk
+file | E:\EasyOSLink\Run\AdminWork\tibco13.lnk
+file | E:\EasyOSLink\Run\AdminWork\tibcossl.lnk
+file | E:\EasyOSLink\Run\AdminWork\TIBCOSSLDoc.lnk
+file | E:\EasyOSLink\Run\AdminWork\tra13.lnk
+file | E:\EasyOSLink\Run\AdminWork\traceconf.lnk
+file | E:\EasyOSLink\Run\AdminWork\ue.lnk
+file | E:\EasyOSLink\Run\AdminWork\UpdateVacation.lnk
+file | E:\EasyOSLink\Run\AdminWork\vacation.lnk
+file | E:\EasyOSLink\Run\AdminWork\videoset.lnk
+file | E:\EasyOSLink\Run\AdminWork\vimfiles.lnk
+file | E:\EasyOSLink\Run\AdminWork\vimplugin.lnk
+file | E:\EasyOSLink\Run\AdminWork\vpn.lnk
+file | E:\EasyOSLink\Run\AdminWork\vpn8.lnk
+file | E:\EasyOSLink\Run\AdminWork\vr.lnk
+file | E:\EasyOSLink\Run\AdminWork\wandoujia.lnk
+file | E:\EasyOSLink\Run\AdminWork\wandoujia2.lnk
+file | E:\EasyOSLink\Run\AdminWork\webex.lnk
+file | E:\EasyOSLink\Run\AdminWork\win10program.lnk
+file | E:\EasyOSLink\Run\AdminWork\Win10Share.lnk
+file | E:\EasyOSLink\Run\AdminWork\Win10Soft.lnk
+file | E:\EasyOSLink\Run\AdminWork\Window Switcher.lnk
+file | E:\EasyOSLink\Run\AdminWork\Wox.lnk
+file | E:\EasyOSLink\Run\AdminWork\Woxfolder.lnk
+file | E:\EasyOSLink\Run\AdminWork\woxPlugin.lnk
+file | E:\EasyOSLink\Run\AdminWork\WSSROBERT.lnk
+file | E:\EasyOSLink\Run\AdminWork\xboot.lnk
+file | E:\EasyOSLink\Run\AdminWork\xca.lnk
+file | E:\EasyOSLink\Run\AdminWork\xvimp.lnk
+file | E:\EasyOSLink\Run\AdminWork\163mailtracesend.bat
+file | E:\EasyOSLink\Run\AdminWork\189mailtracepick.bat
+file | E:\EasyOSLink\Run\AdminWork\189mailtracesend.bat
+file | E:\EasyOSLink\Run\AdminWork\adb2.bat
+file | E:\EasyOSLink\Run\AdminWork\as.bat
+file | E:\EasyOSLink\Run\AdminWork\attri.bat
+file | E:\EasyOSLink\Run\AdminWork\bak.bat
+file | E:\EasyOSLink\Run\AdminWork\bakhost.bat
+file | E:\EasyOSLink\Run\AdminWork\compare.bat
+file | E:\EasyOSLink\Run\AdminWork\emstool.bat
+file | E:\EasyOSLink\Run\AdminWork\fd.bat
+file | E:\EasyOSLink\Run\AdminWork\forcedel.bat
+file | E:\EasyOSLink\Run\AdminWork\g.bat
+file | E:\EasyOSLink\Run\AdminWork\gencert768.bat
+file | E:\EasyOSLink\Run\AdminWork\grant.bat
+file | E:\EasyOSLink\Run\AdminWork\grant2.bat
+file | E:\EasyOSLink\Run\AdminWork\h.bat
+file | E:\EasyOSLink\Run\AdminWork\hibernate.bat
+file | E:\EasyOSLink\Run\AdminWork\importcert.bat
+file | E:\EasyOSLink\Run\AdminWork\l3cert.bat
+file | E:\EasyOSLink\Run\AdminWork\listcert.bat
+file | E:\EasyOSLink\Run\AdminWork\lls.bat
+file | E:\EasyOSLink\Run\AdminWork\ln.bat
+file | E:\EasyOSLink\Run\AdminWork\lnk.bat
+file | E:\EasyOSLink\Run\AdminWork\lnnoquote.bat
+file | E:\EasyOSLink\Run\AdminWork\lnnoquote2.bat
+file | E:\EasyOSLink\Run\AdminWork\lnnoquotesimple.bat
+file | E:\EasyOSLink\Run\AdminWork\lnproblem.bat
+file | E:\EasyOSLink\Run\AdminWork\lnquote.bat
+file | E:\EasyOSLink\Run\AdminWork\mod.bat
+file | E:\EasyOSLink\Run\AdminWork\MQSSLJAVACODE.BAT
+file | E:\EasyOSLink\Run\AdminWork\newhost.bat
+file | E:\EasyOSLink\Run\AdminWork\oldhost.bat
+file | E:\EasyOSLink\Run\AdminWork\own.bat
+file | E:\EasyOSLink\Run\AdminWork\pacmailtrace.bat
+file | E:\EasyOSLink\Run\AdminWork\pacmailtracesend.bat
+file | E:\EasyOSLink\Run\AdminWork\padf.bat
+file | E:\EasyOSLink\Run\AdminWork\rebase.bat
+file | E:\EasyOSLink\Run\AdminWork\sea.bat
+file | E:\EasyOSLink\Run\AdminWork\shutdown.bat
+file | E:\EasyOSLink\Run\AdminWork\tcpserver.bat
+file | E:\EasyOSLink\Run\AdminWork\threaddump.bat
+file | E:\EasyOSLink\Run\AdminWork\vi.bat
+file | E:\EasyOSLink\Run\AdminWork\vnc2.bat
+file | E:\EasyOSLink\Run\AdminWork\vnc223.bat
+file | E:\EasyOSLink\Run\AdminWork\vncip.bat
+file | E:\EasyOSLink\Run\AdminWork\vncipuser.bat
+file | E:\EasyOSLink\Run\AdminWork\ws2.bat
+file | E:\EasyOSLink\Run\AdminWork\wsip.bat
+file | E:\EasyOSLink\Run\AdminWork\wss.bat
+file | E:\EasyOSLink\Run\AdminWork\batchoice.xml
+file | E:\EasyOSLink\Run\AdminWork\batchoicebak.xml
+file | E:\EasyOSLink\Run\AdminWork\jmsack.xml
+file | E:\EasyOSLink\Run\AdminWork\adminconf.url
+file | E:\EasyOSLink\Run\AdminWork\idm10.url
+file | E:\EasyOSLink\Run\AdminWork\testahk.url
+file | E:\EasyOSLink\Run\AdminWork\win10extension.url
+file | E:\EasyOSLink\Run\OS\bash.lnk
+file | E:\EasyOSLink\Run\OS\bash2.lnk
+file | E:\EasyOSLink\Run\OS\bash3.lnk
+file | E:\EasyOSLink\Run\OS\decompile.lnk
+file | E:\EasyOSLink\Run\OS\es.lnk
+file | E:\EasyOSLink\Run\OS\eve.lnk
+file | E:\EasyOSLink\Run\OS\french.lnk
+file | E:\EasyOSLink\Run\OS\jarscantpcl.lnk
+file | E:\EasyOSLink\Run\OS\jarscantra.lnk
+file | E:\EasyOSLink\Run\OS\jd.lnk
+file | E:\EasyOSLink\Run\OS\jd2.lnk
+file | E:\EasyOSLink\Run\OS\music.lnk
+file | E:\EasyOSLink\Run\OS\opensslcp.lnk
+file | E:\EasyOSLink\Run\OS\QQFile.lnk
+file | E:\EasyOSLink\Run\OS\RecentLink.lnk
+file | E:\EasyOSLink\Run\OS\Sky.lnk
+file | E:\EasyOSLink\Run\OS\soft.lnk
+file | E:\EasyOSLink\Run\OS\srs.lnk
+file | E:\EasyOSLink\Run\OS\sysman.lnk
+file | E:\EasyOSLink\Run\OS\syssoft.lnk
+file | E:\EasyOSLink\Run\OS\vnc.lnk
+file | E:\EasyOSLink\Run\OS\254search.bat
+file | E:\EasyOSLink\Run\OS\debugssl.bat
+file | E:\EasyOSLink\Run\OS\gp.bat
+file | E:\EasyOSLink\Run\OS\ip.bat
+file | E:\EasyOSLink\Run\OS\ipbakif.bat
+file | E:\EasyOSLink\Run\OS\ipcmd.bat
+file | E:\EasyOSLink\Run\OS\jarclassdir.bat
+file | E:\EasyOSLink\Run\OS\jardirclass.bat
+file | E:\EasyOSLink\Run\OS\jarscanclassdir.bat
+file | E:\EasyOSLink\Run\OS\jarscandirclass.bat
+file | E:\EasyOSLink\Run\OS\jarscantpclclass.bat
+file | E:\EasyOSLink\Run\OS\jarscantraclass.bat
+file | E:\EasyOSLink\Run\OS\jartraclass.bat
+file | E:\EasyOSLink\Run\OS\opensslclient.bat
+file | E:\EasyOSLink\Run\OS\projectprophttp.bat
+file | E:\EasyOSLink\Run\OS\ser.bat
+file | E:\EasyOSLink\Run\OS\snap.bat
+file | E:\EasyOSLink\Run\OS\sys.bat
+file | E:\EasyOSLink\Run\OS\testGoto.bat
+file | E:\EasyOSLink\Run\OS\vbsdate.bat

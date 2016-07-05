@@ -1,0 +1,2 @@
+CapsLock & c::send ^c
+CapsLock & v::send ^v
